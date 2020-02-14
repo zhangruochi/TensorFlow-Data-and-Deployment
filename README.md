@@ -21,5 +21,18 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 
 ### Week1
 
+- Specialization Introduction
+- Training and Inference using TensorFlow.js in JavaScript
+- Training Models with CSV Files
 - [Lecture Code](./wee1/Examples)
 - [Programming Assignment: Week 1 - Breast Cancer Classification](./week1/Exercise)
+
+
+### week2
+
+- Creating Convolutional Neural Networks in JavaScript
+- Using a Sprite Sheet
+- MNIST Classifier
+- [Lecture Code](./wee2/Examples)
+- [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercise)
+
