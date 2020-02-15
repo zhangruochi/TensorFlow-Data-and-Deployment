@@ -20,7 +20,6 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 
 
 ### Week1
-
 - Specialization Introduction
 - Training and Inference using TensorFlow.js in JavaScript
 - Training Models with CSV Files
@@ -29,10 +28,17 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 
 
 ### week2
-
 - Creating Convolutional Neural Networks in JavaScript
 - Using a Sprite Sheet
 - MNIST Classifier
 - [Lecture Code](./wee2/Examples)
 - [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercise)
+
+### week3
+- Toxicity Classifier
+- Image Classification Using MobileNet
+- Converting Models to JSON Format
+- [Lecture Code](./wee3/Examples)
+- [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercise)
+
 
