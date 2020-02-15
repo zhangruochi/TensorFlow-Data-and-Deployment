@@ -42,3 +42,10 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercise)
 
 
+### week4
+
+- Retraining the MobileNet Model
+- Capturing the Data
+- Performing Inference From the Webcam Feed
+- [Lecture Code](./wee4/Examples)
+- [Programming Assignment: Week 4 - Rock Paper Scissors](./week4/Exercise)
