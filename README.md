@@ -49,3 +49,39 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Performing Inference From the Webcam Feed
 - [Lecture Code](./wee4/Examples)
 - [Programming Assignment: Week 4 - Rock Paper Scissors](./week4/Exercise)
+
+
+### week5
+
+- Course Introduction
+- Machine Learning Models in Mobile and Embedded Systems
+- Taking a look at the saved model format
+- First primer on running models on mobile devices
+- [Lecture Code](./wee5/Examples)
+- [Programming Assignment: Week 5 - Train Your Own Model and Convert It to TFLite](./week5/Exercise)
+
+
+### week6
+- Running a TF model in an Android App
+- Introduction
+- Basic image classification
+- Classifying camera images
+- Code walkthrough - camera image classifier
+- Object detection
+- Code walkthrough of an object detection app
+- Optional Exercise: Rock Paper Scissors for Android
+
+### week7
+- Building the TensorFLow model on IOS
+- Introduction
+- Next steps
+- Classification and detection
+- Optional Exercise - Rock, Paper, Scissors on iOS
+
+### week8
+- TensorFlow Lite on devices
+- Introduction
+- Example: Raspberry Pi
+- Raspberry pi demo
+- Microcontrollers
+- Optional Exercise - Rock Paper Scissors on Raspberry Pi
