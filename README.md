@@ -85,3 +85,42 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Raspberry pi demo
 - Microcontrollers
 - Optional Exercise - Rock Paper Scissors on Raspberry Pi
+
+
+
+
+### week9
+
+- Data Pipelines with TensorFlow Data Services
+- Introduction
+- Starting the code
+- Splitting the data
+- Splits and slices API for datasets in TF
+- [Lecture Code](./wee9/Examples)
+- [Programming Assignment: Week 9 - Exercise 1](./week9/Exercise)
+
+
+### week10
+- Programming APIs and column types
+- Going over the Notebook
+- Loading data and extracting
+- Looking at the code
+- Loading data
+- [Lecture Code](./wee10/Examples)
+- [Programming Assignment: Week 10 - Exercise 2](./week10/Exercise)
+
+
+
+### week11
+- Tuning and performance improvements in your pipeline
+- Methodologies to improve performance
+- Best practices
+- [Programming Assignment: Week 11 - Exercise 3](./week11/Exercise)
+
+### week12
+- Sharing your custom data
+- Colab
+- [Programming Assignment: Week 12- Exercise 4](./week12/Exercise)
+
+
+
