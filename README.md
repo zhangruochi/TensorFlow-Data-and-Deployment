@@ -28,7 +28,7 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Training and Inference using TensorFlow.js in JavaScript
 - Training Models with CSV Files
 - [Lecture Code](./wee1/Examples)
-- [Programming Assignment: Week 1 - Breast Cancer Classification](./week1/Exercise)
+- [Programming Assignment: Week 1 - Breast Cancer Classification](./week1/Exercises)
 
 
 ### week2
@@ -36,14 +36,14 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Using a Sprite Sheet
 - MNIST Classifier
 - [Lecture Code](./wee2/Examples)
-- [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercise)
+- [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercises)
 
 ### week3
 - Toxicity Classifier
 - Image Classification Using MobileNet
 - Converting Models to JSON Format
 - [Lecture Code](./wee3/Examples)
-- [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercise)
+- [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercises)
 
 
 ### week4
@@ -52,7 +52,7 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Capturing the Data
 - Performing Inference From the Webcam Feed
 - [Lecture Code](./wee4/Examples)
-- [Programming Assignment: Week 4 - Rock Paper Scissors](./week4/Exercise)
+- [Programming Assignment: Week 4 - Rock Paper Scissors](./week4/Exercises)
 
 
 ### week5
@@ -62,7 +62,7 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Taking a look at the saved model format
 - First primer on running models on mobile devices
 - [Lecture Code](./wee5/Examples)
-- [Programming Assignment: Week 5 - Train Your Own Model and Convert It to TFLite](./week5/Exercise)
+- [Programming Assignment: Week 5 - Train Your Own Model and Convert It to TFLite](./week5/Exercises)
 
 
 ### week6
@@ -73,14 +73,16 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Code walkthrough - camera image classifier
 - Object detection
 - Code walkthrough of an object detection app
-- Optional Exercise: Rock Paper Scissors for Android
+- [Lecture Code](./wee6/Examples)
+- Optional Exercises: Rock Paper Scissors for Android
 
 ### week7
 - Building the TensorFLow model on IOS
 - Introduction
 - Next steps
 - Classification and detection
-- Optional Exercise - Rock, Paper, Scissors on iOS
+- [Lecture Code](./wee7/Examples)
+- Optional Exercises - Rock, Paper, Scissors on iOS
 
 ### week8
 - TensorFlow Lite on devices
@@ -88,7 +90,8 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Example: Raspberry Pi
 - Raspberry pi demo
 - Microcontrollers
-- Optional Exercise - Rock Paper Scissors on Raspberry Pi
+- [Lecture Code](./wee8/Examples)
+- Optional Exercises - Rock Paper Scissors on Raspberry Pi
 
 
 
@@ -101,7 +104,7 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Splitting the data
 - Splits and slices API for datasets in TF
 - [Lecture Code](./wee9/Examples)
-- [Programming Assignment: Week 9 - Exercise 1](./week9/Exercise)
+- [Programming Assignment: Week 9 - Exercises 1](./week9/Exercises)
 
 
 ### week10
@@ -111,7 +114,7 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Looking at the code
 - Loading data
 - [Lecture Code](./wee10/Examples)
-- [Programming Assignment: Week 10 - Exercise 2](./week10/Exercise)
+- [Programming Assignment: Week 10 - Exercises 2](./week10/Exercises)
 
 
 
@@ -119,12 +122,14 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Tuning and performance improvements in your pipeline
 - Methodologies to improve performance
 - Best practices
-- [Programming Assignment: Week 11 - Exercise 3](./week11/Exercise)
+- [Lecture Code](./wee11/Examples)
+- [Programming Assignment: Week 11 - Exercises 3](./week11/Exercises)
 
 ### week12
 - Sharing your custom data
 - Colab
-- [Programming Assignment: Week 12- Exercise 4](./week12/Exercise)
+- [Lecture Code](./wee12/Examples)
+- [Programming Assignment: Week 12- Exercises 4](./week12/Exercises)
 
 
 ### week13
@@ -133,14 +138,16 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Building a model and deploying to TF Serving
 - Passing data to and from the model
 - Looking into a more complex model using the Fashion MNIST dataset
-- [Programming Assignment: Week 13 - Exercise 1](./week13/Exercise)
+- [Lecture Code](./wee13/Examples)
+- [Programming Assignment: Week 13 - Exercises 1](./week13/Exercises)
 
 
 ### week14
 - TF Hub
 - Text based models
 - Image classification
-- [Programming Assignment: Week 14 - Exercise 2](./week14/Exercise)
+- [Lecture Code](./wee14/Examples)
+- [Programming Assignment: Week 14 - Exercises 2](./week14/Exercises)
 
 
 ### week15
@@ -148,11 +155,13 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Overview of Tensorboard
 - Local Tensorboard
 - Graphics and confusion matrix
-- [Programming Assignment: Week 15 - Exercise 3](./week15/Exercise)
+- [Lecture Code](./wee15/Examples)
+- [Programming Assignment: Week 15 - Exercises 3](./week15/Exercises)
 
 ### week16
 
 - Intro to Federated Learning
 - Privacy and masking
 - Federated Learning APIs
+- [Lecture Code](./wee16/Examples)
 
