@@ -123,4 +123,13 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - [Programming Assignment: Week 12- Exercise 4](./week12/Exercise)
 
 
+### week13
 
+- TF serving as another deployment option for the model and ways to install it
+- Building a model and deploying to TF Serving
+- Passing data to and from the model
+- Looking into a more complex model using the Fashion MNIST dataset
+- [Programming Assignment: Week 11 - Exercise 1](./week13/Exercise)
+
+
+### 

@@ -1,0 +1,1 @@
+docker: Error response from daemon: driver failed programming external connectivity on endpoint determined_antonelli (6a4d67f3751bc7f9fed7821f6df430cbf368992e00c710738cb6f1d9f1e647d2): Bind for 0.0.0.0:8501 failed: port is already allocated.
