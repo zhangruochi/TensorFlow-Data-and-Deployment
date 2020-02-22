@@ -19,6 +19,10 @@ In this first course, you’ll train and run machine learning models in any brow
 This Specialization builds upon our TensorFlow in Practice Specialization. If you are new to TensorFlow, we recommend that you take the TensorFlow in Practice Specialization first. To develop a deeper, foundational understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
 
+### Certificate
+
+![](cer.png)
+
 ### Week1
 - Specialization Introduction
 - Training and Inference using TensorFlow.js in JavaScript
@@ -129,7 +133,26 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 - Building a model and deploying to TF Serving
 - Passing data to and from the model
 - Looking into a more complex model using the Fashion MNIST dataset
-- [Programming Assignment: Week 11 - Exercise 1](./week13/Exercise)
+- [Programming Assignment: Week 13 - Exercise 1](./week13/Exercise)
 
 
-### 
+### week14
+- TF Hub
+- Text based models
+- Image classification
+- [Programming Assignment: Week 14 - Exercise 2](./week14/Exercise)
+
+
+### week15
+
+- Overview of Tensorboard
+- Local Tensorboard
+- Graphics and confusion matrix
+- [Programming Assignment: Week 15 - Exercise 3](./week15/Exercise)
+
+### week16
+
+- Intro to Federated Learning
+- Privacy and masking
+- Federated Learning APIs
+
